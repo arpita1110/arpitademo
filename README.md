@@ -1,2 +1,3 @@
 # arpitademo
-this is my first repositary
+This is my first git repositary.
+Author:Arpita
